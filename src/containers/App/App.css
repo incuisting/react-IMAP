@@ -1,0 +1,10 @@
+.map {
+  width: 100vw;
+  height: 50vw;
+}
+.point{
+  position: absolute;
+  z-index: 1000;
+  top: 20vw;
+  left: 10vw;
+}
