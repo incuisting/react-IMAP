@@ -1,0 +1,7 @@
+http://41.188.33.236:25001/as/webapi/js/auth?v=1.0&t=jsmap&ak=ec85d3648154874552835438ac6a02b2
+http://41.188.33.236:25002/jsmap/1.0/IMap.css
+http://41.188.33.236:25002/jsmap/1.0/main.js
+http://41.188.33.236:25002/jsmap/1.0/flash/IMapStreetView.js
+http://41.188.33.236:25001/as/webapi/js/auth?v=1.0&t=jsmapconfig&ak=ec85d3648154874552835438ac6a02b2
+http://41.188.33.236:25002/jsmap/1.0/images/backgroundimg.png
+http://41.188.33.236:25003/v3/tile?z=10&x=855&y=428

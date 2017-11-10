@@ -30,7 +30,7 @@ ReactDOM.render(
     </div>
     <Provider store={store}>
       <BrowserRouter>
-        <div>
+        <div className='main'>
           <Link to="/">Redux Demo</Link>&nbsp;
           <Link to="/mock-api-request">网络Demo</Link>&nbsp;
           <Link to="/styled-button">StyledComponents</Link>&nbsp;
